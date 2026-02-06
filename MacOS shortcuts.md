@@ -53,3 +53,4 @@
 34. **`Ctrl-Option-I`** - inline fold toggle  **(extension custom)**
 35. **`Cmd-K-E`** - focus on Open Editors View
 36. **`Cmd-↓`** - open editor(tab) from explorer and focus
+37. **`Cmd-G-C`** - focus source control **(custom)**
